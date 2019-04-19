@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BTS</string>
+    <string name="album">Album</string>
+    <string name="withluv">Boy With Luv \nft. Halsey</string>
+    <string name="BTS">BTS</string>
+    <string name="play">Play All</string>
+    <string name="albumsongs">ALBUM SONGS</string>
+    <string name="euphoria">Euphoria</string>
+    <string name="Jungkook">Jungkook</string>
+    <string name="ephipany">Epiphany</string>
+    <string name="Jin">Jin</string>
+    <string name="dna">DNA</string>
+    <string name="spring">Spring Day</string>
+</resources>
